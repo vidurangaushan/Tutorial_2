@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tute 2</string>
+    <string name="et_temp">Enter the Temperature</string>
+    <string name="radBut_C">Celcius</string>
+</resources>
